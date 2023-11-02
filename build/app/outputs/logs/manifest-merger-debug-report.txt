@@ -1,0 +1,314 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-26:19
+MERGED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-26:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/misiek440/.gradle/caches/transforms-3/eb987e8abddf2728baa9eff1d27123e6/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/misiek440/.gradle/caches/transforms-3/eb987e8abddf2728baa9eff1d27123e6/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/misiek440/.gradle/caches/transforms-3/02334ee9d093afcbcec94917848728eb/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/misiek440/.gradle/caches/transforms-3/02334ee9d093afcbcec94917848728eb/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/misiek440/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/misiek440/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:permission_handler_android] /Users/misiek440/Documents/arcore/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/5b318cc2f0c5c77ae7563b73a43fad22/transformed/jetified-sceneform-ux-1.17.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/6269283dff656e0649121a8be87f331a/transformed/jetified-core-1.17.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/ebc7e9725c03c2c7872c8435d14e17da/transformed/jetified-rendering-1.17.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:8:1-40:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/misiek440/.gradle/caches/transforms-3/eb987e8abddf2728baa9eff1d27123e6/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/b3146e32e2731a930f66308e3c809d24/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/misiek440/.gradle/caches/transforms-3/0688b9dd970b06226659179da0fd867b/transformed/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/misiek440/.gradle/caches/transforms-3/fe23604e144a3f1e07ac9425cf8d3d80/transformed/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/misiek440/.gradle/caches/transforms-3/02334ee9d093afcbcec94917848728eb/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/misiek440/.gradle/caches/transforms-3/357070550100540c23ef0921985f401e/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/misiek440/.gradle/caches/transforms-3/ede4728506b97c6c910847bed9b5f10b/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/f7c93b78e7413af600479cf62efd3bdf/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/dae15ab66459c7c814cfe9578e1706f3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/f562cbc756445f17cad7fd8f06b07dbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/3943378554826a83b044df13cc6da74b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.ar.sceneform:assets:1.15.0] /Users/misiek440/.gradle/caches/transforms-3/39e78f447e46bc5329c474c401526aad/transformed/jetified-assets-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/ec10578641139d45a328c567f48881a1/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/misiek440/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/a5e62b79c1b370c2c963eefe3a076316/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/a0d949cd6e8ccd90d0020a6be387db55/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/445f1a6c7ed90c8b1d8b0054874eb819/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/114d02d556db7f0c7636ae1c78b77699/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/misiek440/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/72f1f1fbbbcadf7a4d8c002a04918740/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/misiek440/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/0ba9c48dd5ff84ca64a6f8c4dc29ae01/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/ef7af6270f0a56f2a6528362a5b9112c/transformed/jetified-sceneform-base-1.17.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/af84ed9da26814c70219e8b0cc531632/transformed/jetified-filament-android-1.17.1/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:2:5-54
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+MERGED from [:permission_handler_android] /Users/misiek440/Documents/arcore/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /Users/misiek440/Documents/arcore/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/5b318cc2f0c5c77ae7563b73a43fad22/transformed/jetified-sceneform-ux-1.17.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/5b318cc2f0c5c77ae7563b73a43fad22/transformed/jetified-sceneform-ux-1.17.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/6269283dff656e0649121a8be87f331a/transformed/jetified-core-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/6269283dff656e0649121a8be87f331a/transformed/jetified-core-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/ebc7e9725c03c2c7872c8435d14e17da/transformed/jetified-rendering-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/ebc7e9725c03c2c7872c8435d14e17da/transformed/jetified-rendering-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/misiek440/.gradle/caches/transforms-3/eb987e8abddf2728baa9eff1d27123e6/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/misiek440/.gradle/caches/transforms-3/eb987e8abddf2728baa9eff1d27123e6/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/b3146e32e2731a930f66308e3c809d24/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/b3146e32e2731a930f66308e3c809d24/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/misiek440/.gradle/caches/transforms-3/0688b9dd970b06226659179da0fd867b/transformed/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/misiek440/.gradle/caches/transforms-3/0688b9dd970b06226659179da0fd867b/transformed/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/misiek440/.gradle/caches/transforms-3/fe23604e144a3f1e07ac9425cf8d3d80/transformed/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/misiek440/.gradle/caches/transforms-3/fe23604e144a3f1e07ac9425cf8d3d80/transformed/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/misiek440/.gradle/caches/transforms-3/02334ee9d093afcbcec94917848728eb/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/misiek440/.gradle/caches/transforms-3/02334ee9d093afcbcec94917848728eb/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/misiek440/.gradle/caches/transforms-3/357070550100540c23ef0921985f401e/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/misiek440/.gradle/caches/transforms-3/357070550100540c23ef0921985f401e/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/misiek440/.gradle/caches/transforms-3/ede4728506b97c6c910847bed9b5f10b/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/misiek440/.gradle/caches/transforms-3/ede4728506b97c6c910847bed9b5f10b/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/f7c93b78e7413af600479cf62efd3bdf/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/f7c93b78e7413af600479cf62efd3bdf/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/dae15ab66459c7c814cfe9578e1706f3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/dae15ab66459c7c814cfe9578e1706f3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/f156363817d5f71529d60b6716392550/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/cf24d35e50a727536c7357721dc007c5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/f562cbc756445f17cad7fd8f06b07dbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/f562cbc756445f17cad7fd8f06b07dbc/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/3943378554826a83b044df13cc6da74b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/3943378554826a83b044df13cc6da74b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/f4c2d181f9683c57f8970b9ce7785060/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:assets:1.15.0] /Users/misiek440/.gradle/caches/transforms-3/39e78f447e46bc5329c474c401526aad/transformed/jetified-assets-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:assets:1.15.0] /Users/misiek440/.gradle/caches/transforms-3/39e78f447e46bc5329c474c401526aad/transformed/jetified-assets-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/ec10578641139d45a328c567f48881a1/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/misiek440/.gradle/caches/transforms-3/ec10578641139d45a328c567f48881a1/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/5b75d2e6479f13c5aed7d8001da507c0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/misiek440/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/misiek440/.gradle/caches/transforms-3/5abdc06e026f2f7b9b89c25dcd7a6d7e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/a5e62b79c1b370c2c963eefe3a076316/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/a5e62b79c1b370c2c963eefe3a076316/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/a0d949cd6e8ccd90d0020a6be387db55/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/a0d949cd6e8ccd90d0020a6be387db55/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/445f1a6c7ed90c8b1d8b0054874eb819/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/misiek440/.gradle/caches/transforms-3/445f1a6c7ed90c8b1d8b0054874eb819/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/114d02d556db7f0c7636ae1c78b77699/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/114d02d556db7f0c7636ae1c78b77699/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/misiek440/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/misiek440/.gradle/caches/transforms-3/7f4e81502f72dd837dc1e0ddcbb11c26/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/72f1f1fbbbcadf7a4d8c002a04918740/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/misiek440/.gradle/caches/transforms-3/72f1f1fbbbcadf7a4d8c002a04918740/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/misiek440/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/misiek440/.gradle/caches/transforms-3/56ea02d67edbb15aea212f39ccb5db78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/0ba9c48dd5ff84ca64a6f8c4dc29ae01/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/misiek440/.gradle/caches/transforms-3/0ba9c48dd5ff84ca64a6f8c4dc29ae01/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/ef7af6270f0a56f2a6528362a5b9112c/transformed/jetified-sceneform-base-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/ef7af6270f0a56f2a6528362a5b9112c/transformed/jetified-sceneform-base-1.17.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/af84ed9da26814c70219e8b0cc531632/transformed/jetified-filament-android-1.17.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] /Users/misiek440/.gradle/caches/transforms-3/af84ed9da26814c70219e8b0cc531632/transformed/jetified-filament-android-1.17.1/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/misiek440/Documents/arcore/android/app/src/debug/AndroidManifest.xml:7:22-64
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/misiek440/Documents/arcore/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-77
+uses-permission#android.permission.CAMERA
+ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+uses-feature#0x00030000
+ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-15:35
+	android:glEsVersion
+		ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-41
+	android:required
+		ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-32
+meta-data#com.google.ar.core
+ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-25:40
+	android:value
+		ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [:ar_flutter_plugin] /Users/misiek440/Documents/arcore/build/ar_flutter_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-46
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/misiek440/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+queries
+ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:20:5-22:15
+package#com.google.ar.core
+ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:21:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:27:9-29:41
+	android:value
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:29:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:28:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.37.0] /Users/misiek440/.gradle/caches/transforms-3/a59bdfd1f0759a44270a16c38699facc/transformed/jetified-core-1.37.0/AndroidManifest.xml:32:13-62
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/misiek440/.gradle/caches/transforms-3/ec6ab7819bfc95ed781011caedd660f5/transformed/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/misiek440/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.muhammadali.ar_geometric_shapes_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.muhammadali.ar_geometric_shapes_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/misiek440/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

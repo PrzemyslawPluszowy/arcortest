@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:1:70-112
+		INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:3:3-63
+	android:name
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:3:20-60
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:4:20-74
+uses-feature#0x00030000
+ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:7:3-76
+	android:glEsVersion
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:7:17-49
+	android:required
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:7:50-73
+application
+ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:9:3-13:17
+meta-data#com.google.ar.core
+ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:12:5-77
+	android:value
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:12:50-74
+	android:name
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:12:16-49
+uses-sdk
+INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+		ADDED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml

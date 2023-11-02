@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.difrancescogianmarco.arcore_flutter_plugin" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="24"
+6-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="24" />
+7-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:4:5-65
+9-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:4:22-62
+10
+11    <!--
+12         Indicates that app requires ARCore ("AR Required"). Ensures app is only
+13         visible in the Google Play Store on devices that support ARCore.
+14    -->
+15    <uses-feature android:name="android.hardware.camera.ar" />
+15-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:9:5-62
+15-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:9:19-60
+16
+17    <!-- Sceneform requires OpenGL ES 3.0 or later. -->
+18    <uses-feature
+18-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:12:5-78
+19        android:glEsVersion="0x00030000"
+19-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:12:19-51
+20        android:required="true" />
+20-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:12:52-75
+21
+22    <application>
+22-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:14:5-19:19
+23
+24        <!--
+25             Indicates that app requires ARCore ("AR Required"). Causes Google
+26             Play Store to download and install ARCore when the app is installed.
+27        -->
+28        <meta-data
+28-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:18:9-81
+29            android:name="com.google.ar.core"
+29-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:18:20-53
+30            android:value="optional" />
+30-->/Users/misiek440/.pub-cache/hosted/pub.dev/arcore_flutter_plugin-0.1.0/android/src/main/AndroidManifest.xml:18:54-78
+31    </application>
+32
+33</manifest>

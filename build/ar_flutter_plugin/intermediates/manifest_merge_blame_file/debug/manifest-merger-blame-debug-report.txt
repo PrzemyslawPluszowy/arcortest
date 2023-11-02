@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.carius.lars.ar_flutter_plugin" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="24"
+6-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="24" />
+7-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:3:3-63
+9-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:3:20-60
+10    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+10-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:4:3-77
+10-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:4:20-74
+11
+12    <!-- Sceneform requires OpenGL ES 3.0 or later. -->
+13    <uses-feature
+13-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:7:3-76
+14        android:glEsVersion="0x00030000"
+14-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:7:17-49
+15        android:required="true" />
+15-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:7:50-73
+16
+17    <application>
+17-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:9:3-13:17
+18
+19        <!--
+20         "AR Optional" app, contains non-AR features that can be used when
+21         "Google Play Services for AR" (ARCore) is not available.
+22        -->
+23        <meta-data
+23-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:12:5-77
+24            android:name="com.google.ar.core"
+24-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:12:16-49
+25            android:value="optional" />
+25-->/Users/misiek440/.pub-cache/hosted/pub.dev/ar_flutter_plugin-0.7.3/android/src/main/AndroidManifest.xml:12:50-74
+26    </application>
+27
+28</manifest>
